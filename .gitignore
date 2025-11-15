@@ -1,0 +1,17 @@
+*.txt
+*.png
+*.gz
+*.joblib
+*.jsonl
+Dockerfile
+*.csv
+*.cfg
+LICENSE
+*.toml
+__pycache__/
+build/
+ember18set/
+ember24set/
+examples/
+src/
+GoldenGraphs/
